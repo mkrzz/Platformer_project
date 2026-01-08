@@ -2,6 +2,7 @@
 
 ### University assignnment 
 Create your own platform game using the SFML API  
+This repository is a portfolio version of the original coursework, all features and content implemented by myself
 
 ## Theme  
 A continuous vertical scroller platform game where you control an eyeball.  
