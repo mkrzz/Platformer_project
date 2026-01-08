@@ -1,6 +1,6 @@
 # Eyedrop
 
-## University assignnment 
+### University assignnment 
 Create your own platform game using the SFML API  
 
 ## Theme  
