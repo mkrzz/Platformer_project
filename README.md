@@ -24,6 +24,7 @@ SFML
 
 ## Assets / credits  
 - 2D images (platforms, orbs, eyeball, arrows) downloaded from Kenney.nl
+- Vector2 files provided by the University
 - All other code and game logic implemented by me
 - All sound files downloaded from Soundsnap
 
