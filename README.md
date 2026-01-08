@@ -23,7 +23,9 @@ SFML
 
 ## Assets / credits  
 - 2D images (platforms, orbs, eyeball, arrows) downloaded from Kenney.nl
-- All other code and game logic implemented by me 
+- All other code and game logic implemented by me
+
+## Screenshots  
 
 
 ![menu_screenshot](/Data/Screenshots/menu_screenshot.png)  
